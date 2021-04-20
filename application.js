@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-test
-=======
-test1
->>>>>>> Stashed changes
+test 3
+
+heres some words for the code
