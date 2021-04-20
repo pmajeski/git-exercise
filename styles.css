@@ -5,3 +5,7 @@
 .styleTest2 {
   font-size: large;
 }
+
+#test4 {
+  text-overflow: clip;
+}
